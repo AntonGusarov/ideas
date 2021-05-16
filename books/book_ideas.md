@@ -7,4 +7,6 @@
 - [ ] CVS by tutorials
 - [ ] Fortran for fun and profit
 - [x] RxSwift by tutorials
-- [ ] Mastering git
+- [X] Mastering git
+- [X] Mastering Graphana + Prometheus
+- [ ] Mastering Linux
